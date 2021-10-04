@@ -23,10 +23,7 @@
             echo $num;
 
         }
-        if($numero>15 && $numero<20){
-
             
-        }
         
     ?>
 </body>
