@@ -11,11 +11,15 @@
     <H1>EJERCICIO 5</H1>
     <?php
 
-        $numero = rand(0,15);
+        $numero = rand(0,99);
         $unidades = array("cero","uno","dos","tres","cuatro","cinco","seis","siete","ocho","nueve",
         "diez","once","doce","trece","catorce","quince");
         
-        echo "$numero<br>";
+        $decena = $numero/10;
+        $unidad = ($numero%10)/1;
+        echo "$numero<br> $decena $unidad";
+
+        
         $numero = $numero;
         if($numero<=15){
 

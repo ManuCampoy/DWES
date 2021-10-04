@@ -21,15 +21,15 @@
 					</button>
 					<div class="collapse" id="tema2">
 					<ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-						<li><a href="/profesor/tema2/practica1/ejercicio1.php" class="link-dark rounded">Ejercicio 1</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio2.php" class="link-dark rounded">Ejercicio 2</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio3.php" class="link-dark rounded">Ejercicio 3</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio4.php" class="link-dark rounded">Ejercicio 4</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio5.php" class="link-dark rounded">Ejercicio 5</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio6.php" class="link-dark rounded">Ejercicio 6</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio7.php" class="link-dark rounded">Ejercicio 7</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio8.php" class="link-dark rounded">Ejercicio 8</a></li>
-						<li><a href="/profesor/tema2/practica1/ejercicio9.php" class="link-dark rounded">Ejercicio 9</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio1.php" class="link-dark rounded">Ejercicio 1</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio2.php" class="link-dark rounded">Ejercicio 2</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio3.php" class="link-dark rounded">Ejercicio 3</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio4.php" class="link-dark rounded">Ejercicio 4</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio5.php" class="link-dark rounded">Ejercicio 5</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio6.php" class="link-dark rounded">Ejercicio 6</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio7.php" class="link-dark rounded">Ejercicio 7</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio8.php" class="link-dark rounded">Ejercicio 8</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio9.php" class="link-dark rounded">Ejercicio 9</a></li>
 					</ul>
 					</div>
 				</li>
