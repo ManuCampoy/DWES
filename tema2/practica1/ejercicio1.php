@@ -12,12 +12,21 @@
             <h1>EJERCICIO 1</h1>
             <?php
                 $num1 = rand(0,99);
-                $num2 = rand(0,99);
+                $num2 = 0;
                 $diferencia = $num1 - $num2;
                 echo " La diferencia entre $num1 y $num2 es -> $diferencia "; 
                 echo "<br>";
-                $division = $num1 / $num2;
-                echo " El cociente de $num1 entre $num2 es -> $division "; 
+
+                if($num2!=0){
+
+                    $division = $num1 / $num2;
+                    echo " El cociente de $num1 entre $num2 es -> $division "; 
+
+                }else{
+
+                    echo "No es posible dividir entre 0";
+                    
+                }
 			?>
 		</div>
 	  </div>

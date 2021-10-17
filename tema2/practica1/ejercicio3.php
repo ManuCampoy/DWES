@@ -11,7 +11,6 @@
       <div class="flex-shrink-0 p-3 bg-white">
           <H1>EJERCICIO 3</H1>
           <?php
-                include "../../cabecera.php";
                 $radio = rand(0,10);
                 $volumen = 4 * pi() * pow($radio,3)/ 3; 
                 echo "(4 * π * ".$radio."^3)/3 <br>";

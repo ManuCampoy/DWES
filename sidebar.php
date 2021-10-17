@@ -30,6 +30,11 @@
 						<li><a href="/servidor/tema2/practica1/ejercicio7.php" class="link-dark rounded">Ejercicio 7</a></li>
 						<li><a href="/servidor/tema2/practica1/ejercicio8.php" class="link-dark rounded">Ejercicio 8</a></li>
 						<li><a href="/servidor/tema2/practica1/ejercicio9.php" class="link-dark rounded">Ejercicio 9</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio10.php" class="link-dark rounded">Ejercicio 10</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio11.php" class="link-dark rounded">Ejercicio 11</a></li>	
+						<li><a href="/servidor/tema2/practica1/ejercicio12.php" class="link-dark rounded">Ejercicio 12</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio13.php" class="link-dark rounded">Ejercicio 13</a></li>
+						<li><a href="/servidor/tema2/practica1/ejercicio14.php" class="link-dark rounded">Ejercicio 14</a></li>
 					</ul>
 					</div>
 				</li>

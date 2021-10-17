@@ -7,16 +7,22 @@
     <title>Document</title>
         
     <h1>EJERCICIO 9</h1>
-        <svg height="550" width="650">
-            <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="red" />
-            <circle cx="150" cy="50" r="40" stroke="black" stroke-width="2" fill="purple" />
-            <circle cx="250" cy="50" r="40" stroke="black" stroke-width="2" fill="orange" />
-            <circle cx="350" cy="50" r="40" stroke="black" stroke-width="2" fill="blue" />
-            <circle cx="450" cy="50" r="40" stroke="black" stroke-width="2" fill="green" />
-            
-        </svg>
+
+    
+        
 </head>
 <body>
     
+    <?php
+
+        for($i=0;$i<=4;$i++){
+            
+            
+            $color = "rgb(rand(0,256),rand(0,256),rand(0,256))";
+            echo "<svg height='150' width='150'>";
+            echo "<circle cx='10".+$i."' cy='50' r='40' stroke='black' stroke-width='2' fill='rgb(".+rand(0,255).",".+rand(0,255).",".+rand(0,255).")'>"; 
+            echo "</svg>";
+        }
+    ?>
 </body>
 </html>
